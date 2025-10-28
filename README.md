@@ -1,6 +1,6 @@
 # Olá! Eu sou o Diego Menegazzi 👋
 
-Profissional de TI no setor público (MIDR), professor de programação e pesquisador em **Segurança da Informação & Privacidade** — com foco recente em **riscos de privacidade no uso de LLMs** no desenvolvimento de software. Também trabalho com **Laravel**, **WordPress**, **Docker**, **automação com n8n** e gestão de contratos de TIC. Nos tempos livres, pratico **triathlon** 🏊‍♂️🚴‍♂️🏃‍♂️.
+Profissional de TI no setor público (MIDR), professor de programação e pesquisador em **Segurança da Informação & Privacidade** - com foco recente em **riscos de privacidade no uso de LLMs** no desenvolvimento de software. Também trabalho com **Laravel**, **WordPress**, **Docker**, **automação com n8n** e gestão de contratos de TIC. Nos tempos livres, pratico **triathlon** 🏊‍♂️🚴‍♂️🏃‍♂️.
 
 ## 🔭 Em que estou focado agora
 - Implantação e melhoria de pipelines de **CI/CD** para PHP/Laravel e WordPress  
